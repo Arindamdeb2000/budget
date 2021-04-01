@@ -1,8 +1,8 @@
 {
 	"id" : "en",
 	"menu" : {
-		"expense": "Expenses",
-		"newExpense" : "New",
+		"role": "Role",
+		"Findprediction" : "Predict",
 		"settings" : "Settings",
 		"categories" : "Categories",
 		"category" : "Category",
@@ -31,11 +31,11 @@
 				"November",
 				"December"
 			],
-	"money" : "Us$",
+	"Peopletoleave" : "numbers",
 	"catExists" : "Category already exists!",
 	"invalidData" : "Invalid input!",
-	"defaultCat" : "Market;Gas Station;Snacks;Store",
-	"moneyInvalid" : "Invalid value! e.g: valid: 105.50",
+	"defaultCat" : "AWS;Microsoft;Google;Catch Point;Cisco;Facebook;Apple;Amazon;F5 Network",
+	"numberInvalid" : "Invalid value! e.g: valid: 10",
 	"noneExpanse" : "No expenses!",
 	"reset" : "Reseted!",
 	"confirm" : "Do you want to procced?",
